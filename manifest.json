@@ -1,0 +1,23 @@
+{
+  "title": "Custom Theme Tutorial",
+  "description": "Custom Theme Tutorial",
+  "parent_theme": "responsive",
+  "theme": "media\/images\/cart.png",
+  "mail": "media\/images\/invoice_logo.png",
+  "favicon": "media\/images\/favicon.ico",
+  "settings_overrides": {
+    "General": {
+      "enable_compare_products": false
+    },
+    "Appearance": {
+      "default_products_view": "products_without_options",
+      "default_product_details_view": "bigpicture_template",
+      "thumbnails_gallery": true,
+      "enable_quick_view": false
+    },
+    "Thumbnails": {
+      "product_lists_thumbnail_width": 300,
+      "product_lists_thumbnail_height": 300
+    }
+  }
+}
