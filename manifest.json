@@ -2,7 +2,7 @@
   "title": "Custom Theme Tutorial",
   "description": "Custom Theme Tutorial",
   "parent_theme": "responsive",
-  "theme": "media\/images\/cart.png",
+  "logo": "media\/images\/cart.png",
   "mail": "media\/images\/invoice_logo.png",
   "favicon": "media\/images\/favicon.ico",
   "settings_overrides": {
