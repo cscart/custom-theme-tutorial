@@ -13,7 +13,13 @@
       "default_products_view": "products_without_options",
       "default_product_details_view": "bigpicture_template",
       "thumbnails_gallery": true,
-      "enable_quick_view": false
+      "enable_quick_view": false,
+      "available_product_list_sortings": [
+        "product-asc",
+        "product-desc",
+        "price-asc",
+        "price-desc"
+      ]
     },
     "Thumbnails": {
       "product_lists_thumbnail_width": 300,
